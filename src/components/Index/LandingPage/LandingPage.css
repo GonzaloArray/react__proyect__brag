@@ -147,3 +147,10 @@
         width: 50%;
     }
 }
+
+/* Comunity idea - ci */
+.ci-img{
+    width: 20%;
+    aspect-ratio: 3/4;
+    object-fit: contain;
+}

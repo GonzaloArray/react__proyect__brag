@@ -15,7 +15,7 @@ export const LandingPage = () => {
                         <div className="circle"></div>
                         <div className="circle"></div>
                     </div>
-                    <img src={Grab} className="img__landing" alt="Brad - Task manager" />
+                    <img src={Grab} className="img__landing" loading='lazy' alt="Brad - Task manager" />
                 </div>
             </section>
         </>

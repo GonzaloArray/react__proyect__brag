@@ -1,0 +1,26 @@
+a{
+    color: white;
+}
+.ft-hover-link:hover{
+    color: aqua!important;
+}
+.ft-bg-copy{
+    background-color: rgb(21, 105, 223);
+}
+.ft-img-happy{
+    display: none;
+}
+@media (min-width: 768px) {
+    .ft-img-happy{
+        display: block;
+        top: -4.5rem;
+        width: 15%;
+    }
+}
+@media (min-width: 1400px) {
+    .ft-img-happy{
+        display: block;
+        top: -10.7rem;
+        width: 15%;
+    }
+}
